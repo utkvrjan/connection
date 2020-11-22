@@ -1,0 +1,75 @@
+body{
+    background: #B4DAE4;
+}
+#login_box{
+    width: 350px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 20%;
+    border-radius: 15px;
+    text-align: center;
+    background: #00000050;
+    padding: 20px 50px;
+}
+#create_box{
+    width: 350px;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 20%;
+    border-radius: 15px;
+    text-align: center;
+    background: #00000050;
+    padding: 20px 50px;
+}
+#list{
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 5%;
+    border-radius: 15px;
+    text-align: center;
+    padding: 20px 50px;
+}
+#list .table{
+    border-color: #000000;
+
+}
+
+
+
+#login_box h1{
+    color: #ffffff;
+}
+#login_box .form{
+    margin-top: 20px;
+}
+#login_box .form .item{
+    margin-top: 15px;
+}
+#login_box .form .item input{
+    border: 0;
+    border-bottom: 2px solid #fff;
+    padding: 5px 10px;
+    font-size: 18px;
+    background: #ffffff00;
+    color: #ffffff;
+}
+#login_box button{
+    margin-top: 15px;
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffffff;
+    background-image: linear-gradient(to right,#db3125 0%,#578bc3 100%);
+    border: 0;
+    border-radius: 15px ;
+}
+#list button{
+    width: 50px;
+    height: 20px;
+    font-size: 5px;
+    font-weight: 700;
+    border: 0;
+    border-radius: 15px ;
+}
